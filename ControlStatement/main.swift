@@ -49,3 +49,7 @@ switch appType {
 }
 
 print("Change for testing github")
+
+let date = getTime()
+print("Current date in main is \(date)")
+print("Add file for github test")
